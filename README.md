@@ -2,4 +2,4 @@
 
 # The programs consist of a increasingly more complicated robot barista!
 
-# Link to video // https://www.youtube.com/watch?v=mRMmlo_Uqcs
+# Link to playlist // https://www.youtube.com/watch?v=mRMmlo_Uqcs&list=PLIhvC56v63ILPDA2DQBv0IKzqsWTZxCkp
